@@ -8,6 +8,7 @@ filetype off
 " Neovim Plugins
 call plug#begin('~/.config/nvim/plugged')
 Plug 'morhetz/gruvbox'
+Plug 'vim-airline/vim-airline'
 Plug 'preservim/nerdtree'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
